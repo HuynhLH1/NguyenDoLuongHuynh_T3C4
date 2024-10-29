@@ -1,38 +1,53 @@
-# NguyenDoLuongHuynh_T3C4
-# 👋 Hello! Tôi tên Nguyễn Đỗ Lương Huỳnh
+# 👤 Nguyễn Đỗ Lương Huỳnh 
 
-tôi học trường đại học Ngoại ngữ Tin Học,tôi học ngành công nghệ thông tin chuyên ngành công nghệ phần mềm.
+**Trường học:** Đại học Ngoại Ngữ Tin Học  
+**Chuyên ngành:** Công nghệ phần mềm – Công nghệ Thông tin  
+---
 
-## 🌱 Các ngôn ngữ tôi đã học 
-ngôn ngư java,c#,HTML.
+> _"Sự khác biệt thật sự là sự tĩnh lặng giữa những âm thanh ồn ào."_  
+> -- **Nguyễn Đỗ Lương Huỳnh**
 
+---
 
+### 📜 About Me
 
-## 🔭 Projects I'm Working On
+Xin chào, tôi là **Nguyễn Đỗ Lương Huỳnh**, một sinh viên ngành Công nghệ Phần mềm, không có gì đặc biệt ngoài niềm đam mê với việc _không nổi bật_. Trên hành trình trở thành một lập trình viên, tôi đã có cơ hội trải nghiệm qua nhiều ngôn ngữ khác nhau. Những ngôn ngữ đó có thể giúp máy tính hiểu được, nhưng có lẽ con người vẫn là bài toán khó giải nhất.
 
-I'm actively involved in several projects to apply my skills and explore new technologies:
-- **[Hasaki.vn Clone](https://github.com/yourusername/hasaki-clone)**: A clone of the e-commerce website Hasaki.vn, built using React and MongoDB.
-- **Library Management System**: A full-stack web app for managing library books, borrowers, and transactions.
-- **Movie Ticket Booking System**: A web-based system for booking movie tickets, with login functionality and user roles.
+### 🌐 Languages and Skills
 
-## 🛠 Skills & Tools
+| Ngôn ngữ lập trình | Trình độ      |
+|--------------------|---------------|
+| C#                | ⭐⭐⭐⭐        |
+| Python            | ⭐⭐⭐         |
+| Java              | ⭐⭐⭐         |
+| Japanese (日本語)   | ⭐⭐⭐⭐        |
 
-- **Languages**: JavaScript, Python, Java, C#
-- **Frameworks**: React, Node.js, Express
-- **Databases**: SQL Server, MySQL, MongoDB
-- **Other Tools**: Git, Visual Studio Code, NetBeans
+---
 
-## 🤔 What I'm Interested In
+### 🎯 Goals
+- **Master Programming Languages**: Tiếp tục khám phá và làm chủ **C#**, **Python**, **Java**, và bất kỳ ngôn ngữ nào sẽ xuất hiện trong tương lai.
+- **Language Skills**: Sử dụng **tiếng Nhật**,**tiếng anh** để khám phá những cách nhìn mới về thế giới.
+- **Life**: Học hỏi, làm việc, và tránh khỏi áp lực phải "khác biệt."
 
-- Building scalable and efficient applications
-- Contributing to open-source projects
-- Learning new programming languages and frameworks
-- Exploring Artificial Intelligence and Machine Learning
+---
 
-## 💬 Let's Connect!
+### 🔍 What I'm Working On
+- **Tự học và hoàn thiện** kỹ năng code
+- **Tìm hiểu thêm về triết lý sống** của những lập trình viên "thầm lặng"
+- **Luôn cập nhật bản thân**, nhưng không để mình chạy đua theo áp lực
 
-If you're interested in collaborating or just want to chat, feel free to reach out:
+---
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub](https://github.com/yourusername)
+### 🤔 Random Thought
+> "_Cuộc sống là những dòng code phức tạp. Không phải lúc nào chúng ta cũng phải debug mọi thứ, vì đôi khi lỗi lầm lại chính là điều khiến nó thú vị._"
+
+---
+
+### 🌌 Connect With Me
+- **Email**: [huynhnguyen2v@gmail.com](mailto:huynhnguyen4v@gmail.com)
+- **GitHub**: [GitHub Link](https://github.com/HuynhLH1)
+
+---
+
+> _“Thế giới thật ồn ào, và có lẽ, điều duy nhất tôi cần là yên lặng để làm điều tôi muốn.”_
+<!-- Cảm ơn bạn đã ghé thăm README của tôi! 😊 -->
